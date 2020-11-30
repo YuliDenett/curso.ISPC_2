@@ -1,0 +1,62 @@
+body { 
+    background: #273c75;
+    color: rgb(250, 216, 82);
+    text-align: center;
+}
+img{
+    width: 200px;
+}
+header {
+    color: darkgrey;
+}
+h1 {
+    color: darkgrey;
+    font-size: 30px;
+    font-family: fantasy;
+    font-weight: lighter;
+}
+div {
+    background: #192a56;
+    widows: 60px;
+    margin: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+}
+.navegacion li {
+    list-style: none;
+    padding: 50px;
+    font: bold 20px;
+    font-family: Impact;
+    color: cornflowerblue;
+    display: inline;
+}
+.seccion {
+    margin: 20px;
+    text-align: left;
+    width: 600px;
+    float: left;
+    }
+
+article{
+    background: rgb(79, 81, 88);
+
+}
+article footer {
+    text-align: right;
+}
+
+.lado{
+    width: 200px;
+    text-align: right;
+    list-style: none;
+    float: right;
+    margin: 20px;
+    margin-top: 30px;
+    font:bold;
+    font-family: impact;
+}
+.pie{
+    clear: both;
+    text-align: center;
+}
