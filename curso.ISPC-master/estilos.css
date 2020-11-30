@@ -1,8 +1,13 @@
+
+*{
+	font-family: 'Permanent Marker', cursive;
+}
 body { 
     background: #273c75;
     color: rgb(250, 216, 82);
     text-align: center;
 }
+
 img{
     width: 200px;
 }
@@ -11,8 +16,7 @@ header {
 }
 h1 {
     color: darkgrey;
-    font-size: 30px;
-    font-family: fantasy;
+    font-size: 30px;    
     font-weight: lighter;
 }
 div {
@@ -23,11 +27,10 @@ div {
     margin-bottom: 50px;
     padding: 50px;
 }
-.navegacion li {
+.navegacion li {	
     list-style: none;
     padding: 50px;
-    font: bold 20px;
-    font-family: Impact;
+    font: bold 20px;   
     color: cornflowerblue;
     display: inline;
 }
@@ -54,7 +57,7 @@ article footer {
     margin: 20px;
     margin-top: 30px;
     font:bold;
-    font-family: impact;
+    
 }
 .pie{
     clear: both;
