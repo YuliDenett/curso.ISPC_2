@@ -32,7 +32,7 @@ div {
     padding: 50px;
     font: bold 20px;   
     color: cornflowerblue;
-    display: inline;
+    display: inline-block;
 }
 .seccion {
     margin: 20px;
